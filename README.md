@@ -108,15 +108,4 @@ Ask Me Anything about MERN Stack and Beyond!
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
