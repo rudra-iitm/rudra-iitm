@@ -70,11 +70,11 @@ Ask Me Anything about MERN Stack and Beyond!
 ## Github Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-IITM&show_icons=true&count_private=true&hide_border=true&hide=stars" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-IITM&show_icons=true&count_private=true&hide_border=true&hide=stars&theme=transparent" align="left" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-IITM&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-IITM&hide_border=true&layout=compact&theme=transparent" align="center" />
 </div>
  
 
