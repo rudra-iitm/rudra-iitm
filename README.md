@@ -13,12 +13,12 @@
 Ask Me Anything about MERN Stack and Beyond!  
   
 
-- ⚡ Tabs 'n' Code: Rudra's Playground of Pixel Perfection  
+- ⚡ Tabs 'n' Code: Rudra's Playground of Pixel Perfection
+
+- 👨🏻‍💻 Portfolio Website: https://rudra-iitm.github.io
   
 
 <br/>  
-
-## Portfolio Website - https://rudra-iitm.github.io
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
