@@ -153,8 +153,6 @@ Ask Me Anything about MERN Stack and Beyond!
 
 - 👨🏻‍💻 Portfolio: [rudra-iitm.github.io](rudra-iitm.github.io)
 
-<br/>  
-
 ---
 
 
