@@ -151,7 +151,7 @@ Ask Me Anything about MERN Stack and Beyond!
 
 - ⚡ Tabs 'n' Code: Rudra's Playground of Pixel Perfection
 
-- 👨🏻‍💻 Portfolio: [rudra-iitm.github.io](rudra-iitm.github.io)
+- 👨🏻‍💻 Portfolio: [singhrudra.com](singhrudra.com)
 
 ---
 
