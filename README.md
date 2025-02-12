@@ -62,7 +62,7 @@ const rudra = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -103,15 +103,13 @@ Sunday                   196 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               45 mins             █████████████████░░░░░░░░   68.41 % 
-Go                       20 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Go                       20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +125,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2025 00:59:07 UTC
+ Last Updated on 12/02/2025 00:59:24 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
