@@ -133,10 +133,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [GSoC 2024 Final Report: Container Chronicles](https://medium.com/@rudransh.iitm/gsoc-2024-final-report-container-chronicles-759fe7f23ac6?source=rss-b12a0f749b4e------2)
-- [Understanding the Core of React: Virtual DOM, React Fiber, and Reconciliation](https://rudraiitm.hashnode.dev/understanding-the-core-of-react-virtual-dom-react-fiber-and-reconciliation)
-- [Unleashing React.js](https://rudraiitm.hashnode.dev/unleashing-reactjs)
-- [Diving into TypeScript](https://rudraiitm.hashnode.dev/diving-into-typescript)
-- [Document Object Model &lpar;DOM&rpar;](https://rudraiitm.hashnode.dev/document-object-model-dom)
 <!-- BLOG-POST-LIST:END -->  
 
 ## <ins>Crafting Digital Dreams: Rudra's Repository</ins>  
