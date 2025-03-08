@@ -105,13 +105,13 @@ Sunday                   211 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +127,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2025 01:03:06 UTC
+ Last Updated on 08/03/2025 00:49:15 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
