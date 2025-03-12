@@ -70,8 +70,6 @@ const rudra = {
 
 > 📦 139.9 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 97 Public Repositories 
@@ -105,13 +103,13 @@ Sunday                   211 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +125,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2025 01:02:43 UTC
+ Last Updated on 12/03/2025 01:01:58 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
