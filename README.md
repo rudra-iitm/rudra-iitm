@@ -70,8 +70,6 @@ const rudra = {
 
 > 📦 140.0 kB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 98 Public Repositories 
@@ -131,7 +129,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2025 01:01:44 UTC
+ Last Updated on 23/03/2025 01:07:41 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
