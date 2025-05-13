@@ -60,7 +60,7 @@ const rudra = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,8 +69,6 @@ const rudra = {
 **🐱 My GitHub Data** 
 
 > 📦 140.4 kB Used in GitHub's Storage 
- > 
-> 🏆 154 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -127,7 +125,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2025 01:10:54 UTC
+ Last Updated on 13/05/2025 01:09:11 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
