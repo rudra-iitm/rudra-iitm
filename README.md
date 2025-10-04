@@ -60,7 +60,9 @@ const rudra = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%208%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -76,6 +78,42 @@ const rudra = {
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+🌃 Evening                448 commits         █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌙 Night                  350 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Tuesday                  228 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Wednesday                123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Thursday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   237 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -89,7 +127,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 01:02:55 UTC
+ Last Updated on 04/10/2025 01:00:39 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
