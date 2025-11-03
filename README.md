@@ -68,7 +68,7 @@ const rudra = {
 
 > 📦 151.1 kB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2025
+> 🏆 176 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -76,6 +76,42 @@ const rudra = {
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌃 Evening                449 commits         █████████░░░░░░░░░░░░░░░░   35.22 % 
+🌙 Night                  351 commits         ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Tuesday                  228 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Wednesday                123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Thursday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Friday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Sunday                   237 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -89,7 +125,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 01:12:03 UTC
+ Last Updated on 03/11/2025 01:11:31 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
