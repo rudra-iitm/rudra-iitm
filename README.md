@@ -132,6 +132,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Static Pages, Dynamic Impact — My GSoC 2025 Journey](https://medium.com/@rudransh.iitm/static-pages-dynamic-impact-my-gsoc-2025-journey-119a2544f4c9?source=rss-b12a0f749b4e------2)
 - [GSoC 2024 Final Report: Container Chronicles](https://medium.com/@rudransh.iitm/gsoc-2024-final-report-container-chronicles-759fe7f23ac6?source=rss-b12a0f749b4e------2)
 <!-- BLOG-POST-LIST:END -->  
 
