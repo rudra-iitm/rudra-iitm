@@ -62,7 +62,7 @@ const rudra = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -117,17 +117,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ██████████░░░░░░░░░░░░░░░   40.35 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               23 repos            ██████████░░░░░░░░░░░░░░░   41.07 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
 
 
- Last Updated on 18/12/2025 01:10:24 UTC
+ Last Updated on 19/12/2025 01:13:29 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
