@@ -60,6 +60,8 @@ const rudra = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.71%20million%20lines%20of%20code-blue?style=flat)
@@ -125,7 +127,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 00:17:48 UTC
+ Last Updated on 31/01/2026 01:23:24 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
