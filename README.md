@@ -68,15 +68,15 @@ const rudra = {
 
 **🐱 My GitHub Data** 
 
-> 📦 242.2 kB Used in GitHub's Storage 
+> 📦 242.4 kB Used in GitHub's Storage 
  > 
-> 🏆 579 Contributions in the Year 2026
+> 🏆 609 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 108 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -117,17 +117,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               29 repos            ████████████░░░░░░░░░░░░░   49.15 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               30 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
 
 
- Last Updated on 06/07/2026 02:35:31 UTC
+ Last Updated on 07/07/2026 02:31:27 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
