@@ -76,42 +76,6 @@ const rudra = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                528 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-🌆 Daytime                841 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-🌃 Evening                1020 commits        █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌙 Night                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   691 commits         ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Tuesday                  408 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Thursday                 390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Saturday                 260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Sunday                   454 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -125,7 +89,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:05:16 UTC
+ Last Updated on 25/07/2026 02:04:44 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
