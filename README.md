@@ -60,8 +60,6 @@ const rudra = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.69%20million%20lines%20of%20code-blue?style=flat)
@@ -78,48 +76,6 @@ const rudra = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                532 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-🌆 Daytime                842 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-🌃 Evening                1037 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
-🌙 Night                  445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   691 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Tuesday                  419 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Wednesday                279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Thursday                 396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Friday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Saturday                 260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,7 +89,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:58:32 UTC
+ Last Updated on 07/08/2026 02:22:17 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
