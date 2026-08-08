@@ -60,6 +60,8 @@ const rudra = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%207%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.69%20million%20lines%20of%20code-blue?style=flat)
@@ -68,7 +70,7 @@ const rudra = {
 
 > 📦 290.1 kB Used in GitHub's Storage 
  > 
-> 🏆 847 Contributions in the Year 2026
+> 🏆 848 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -76,6 +78,48 @@ const rudra = {
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                532 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+🌆 Daytime                842 commits         ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+🌃 Evening                1041 commits        █████████░░░░░░░░░░░░░░░░   36.40 % 
+🌙 Night                  445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   691 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Tuesday                  419 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Wednesday                279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Thursday                 396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Friday                   360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Saturday                 260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -89,7 +133,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:22:17 UTC
+ Last Updated on 08/08/2026 01:07:45 UTC
 <!--END_SECTION:waka-->
 
 ## Recent Blog Posts  
